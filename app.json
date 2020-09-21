@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "udaci-reactnd-mobile-flashcards",
+    "slug": "snack-e2403991-ee9c-451f-a1db-035dbf9d56de",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "useNextNotificationsApi": true
+    },
+    "description": "",
+    "githubUrl": "https://github.com/techrick/udaci-reactnd-mobile-flashcards.git"
+  }
+}
